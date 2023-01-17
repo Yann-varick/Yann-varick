@@ -1,4 +1,4 @@
-Hi 👋 My name is YANN VARICK TCHUISE
+Hi 👋 My name is Yann
 ====================================
 
 Devops Engineering
