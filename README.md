@@ -4,7 +4,7 @@ Hi 👋 My name is Yann
 Devops Engineering
 ------------------
 
-DevOps Engineer with 3+ years of hand-on experience in architecting, automating, and optimizing mission critical deployments over large infrastructure. Hands-on experience in application configurations, code compilation, packaging, building, automating managing, releasing code from one environment to another, and deploying to servers. Experienced in GitHub, Maven, Jenkins, Docker, Ansible, Terraform, Kubernetes by installing, configuring, and maintaining for purpose of continuous integration (CI) and continuous deployment/delivery (CD) for end-to-end automation for all build and deployments
+DevOps Engineer with 2+ years of hand-on experience in architecting, automating, and optimizing mission critical deployments over large infrastructure. Hands-on experience in application configurations, code compilation, packaging, building, automating managing, releasing code from one environment to another, and deploying to servers. Experienced in GitHub, Maven, Jenkins, Docker, Ansible, Terraform, Kubernetes by installing, configuring, and maintaining for purpose of continuous integration (CI) and continuous deployment/delivery (CD) for end-to-end automation for all build and deployments
 
 * 🌍  I'm based in Frisco, TX
 * ✉️  You can contact me at [tchuiseyannvarick@gmail.com](mailto:tchuiseyannvarick@gmail.com)
